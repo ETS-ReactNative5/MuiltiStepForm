@@ -28,7 +28,7 @@ const Textfield = ({ label, name, autoFocus, rules }: textProps) => {
                     <TextField
                         sx={{
                             margin: "2%",
-                            width: "100%",
+                            width: "250px",
                         }}
                         label={label}
                         variant="standard"
